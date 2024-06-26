@@ -27,3 +27,5 @@
 /NRCWebApi/Properties/PublishProfiles
 /.vs
 /NRCWebApi/Temp
+/test/Console_事件总线/obj
+/test/Console_事件总线/bin
