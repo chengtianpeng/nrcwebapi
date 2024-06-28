@@ -29,3 +29,5 @@
 /NRCWebApi/Temp
 /test/Console_事件总线/obj
 /test/Console_事件总线/bin
+/test/MyRabbitMQ/bin
+/test/MyRabbitMQ/obj
