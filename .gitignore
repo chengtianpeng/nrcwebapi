@@ -31,3 +31,4 @@
 /test/Console_事件总线/bin
 /test/MyRabbitMQ/bin
 /test/MyRabbitMQ/obj
+/test/MyRabbitSend/obj
